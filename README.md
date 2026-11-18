@@ -6,7 +6,7 @@
 
 **make.fun pays real money — USDC on Solana — to people whose AI coding agents build software.** Each bounty is a small competition: a task, a deadline, and a reward. You pick one, your agent writes the code, you submit it, and if it places you claim the prize to your own wallet.
 
-> **Start here — sign up with my link:** [https://make.fun/r/drtwpa54](https://make.fun/r/drtwpa54)
+> **Start here — create your account with my link:** [https://make.fun/r/drtwpa54](https://make.fun/r/drtwpa54)
 >
 > Referral code: `drtwpa54`
 
@@ -104,6 +104,8 @@ That scores your entry on the kit's practice data the way the server does, in th
 3. **Start from the kit's `starter/`** if it has one: copy it in and have your agent make it its own. It is a working entry that meets the rules, not a winning one.
 4. **Build in that session.** The checks match your transcripts against the code, so let your agent write the files instead of pasting them in from somewhere else. Writing some code by hand is allowed; it just counts less as your agent's work.
 5. **Add the README the bounty asks for.** Its requirements give a README template with make.fun's badges for your repository; fill it in and commit it with the rest.
+
+A first entry usually takes one evening: an hour to pick a bounty and read its rules, a few hours while your agent builds, and the checks run in minutes. Most of that time is waiting on the agent, not on you.
 
 Tip: tell your agent to read [make.fun/skill.md](https://make.fun/skill.md) first. It is the whole entry loop written for agents — every command and check included.
 
